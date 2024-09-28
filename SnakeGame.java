@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Random;
 import javax.swing.*;
 
+//comment
+
 public class SnakeGame extends JPanel implements ActionListener, KeyListener {
     private class Tile {
         int x;
